@@ -1,4 +1,5 @@
-A console application project written in Pascal .Net and implemented in the Pascal ABC IDE. .NetFrameWork platform. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
+A console application project written in Pascal .Net and implemented in the Pascal ABC IDE. .NetFrameWork platform. 
+Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 The program does the following:
   1. Prompts the user for the number of elements in the array.
   2. Allocates memory and creates an array of integers from the number of elements previously entered.
