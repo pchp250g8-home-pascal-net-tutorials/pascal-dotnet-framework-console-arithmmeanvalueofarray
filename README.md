@@ -1,4 +1,4 @@
-ArithmMeanValueOfArray. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Arrays. Console Application. 
+ArithmMeanValueOfArray. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Arrays. Console Application.
 A console application project written in Pascal .Net and implemented in the Pascal ABC IDE. .NetFrameWork platform. 
 Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 The program does the following:
